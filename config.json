@@ -3,6 +3,21 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "github-profile-views-counter",
+    "coenraadhuman",
+    "geeky",
+    "gitlab-scripts",
+    "clap",
+    "gib",
+    "websockets-experiments",
+    "covid-19-sa-dashboard",
+    "bash-project-template",
+    "composite-object-field-null-check",
+    "business-rule-engine",
+    "certificate-downloader",
+    "blinky-esp8266-rust",
+    "hexapawn-ai",
+    "ttgo-epaper-smart-badge",
+    "i2s-dac-configurations"
   ]
 }
