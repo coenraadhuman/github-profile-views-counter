@@ -18,6 +18,7 @@
     "blinky-esp8266-rust",
     "hexapawn-ai",
     "ttgo-epaper-smart-badge",
-    "i2s-dac-configurations"
+    "i2s-dac-configurations",
+    "java-iteration-performance"
   ]
 }
