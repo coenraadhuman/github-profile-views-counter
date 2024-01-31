@@ -275,9 +275,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/coenraadhuman/github-profile-views-counter/raw/master/graph/179843590/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/coenraadhuman/github-profile-views-counter/tree/master/readme/749360667/year.md">
+				java-iteration-performance
+			</a>
+		</td>
+		<td>
+			2024/1/28 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/coenraadhuman/github-profile-views-counter/raw/master/graph/749360667/small/year.png" height="20"> 58
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/31 12:33 PM UTC</i></small>
+<small><i>Last updated on 2024/1/31 3:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
