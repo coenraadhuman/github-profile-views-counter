@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/coenraadhuman/github-profile-views-counter/tree/master/readme/744474120/year.md">
-				gitlab-scripts
-			</a>
-		</td>
-		<td>
-			2024/2/26 1:16 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/coenraadhuman/github-profile-views-counter/raw/master/graph/744474120/small/year.png" height="20"> 3
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/coenraadhuman/github-profile-views-counter/tree/master/readme/615996695/year.md">
 				clap
 			</a>
@@ -293,7 +277,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/2/28 6:23 AM UTC</i></small>
+<small><i>Last updated on 2024/2/28 12:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
